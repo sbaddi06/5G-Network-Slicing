@@ -7,6 +7,8 @@ One of my recent projects was in the networking area, with the problem statement
 2. Massive Machine Type Communications (mMTC). 
 3. Ultra-Reliable Low Latency Communication (uRLLC). 
 
+![Image text](/Images/Picture5.png)
+
 ## Objectives
 
 - To Understand the concept of 5G and Network Slicing.
