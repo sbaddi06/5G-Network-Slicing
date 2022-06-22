@@ -29,7 +29,8 @@ One of my recent projects was in the networking area, with the problem statement
 
 - Massive Machine Type Communications (mMTC)  - 2
 - Ultra-Reliable Low Latency Communication (uRLLC)  -  1
-- Enhanced Mobile Broadband (eMBB) -  3.
+- Enhanced Mobile Broadband (eMBB) -  3.<br />
+
 uRLLC is given top priority since it caters to time-critical applications with low latency requirements.
 We made the necessary changes to the characteristics of a slice in a base station using the Slicesim simulation tool. 20 base stations with varied client sizes were used in the simulation. To simulate real-time conditions, multiple base station capacities and coverage areas were configured, and the related results were drawn.
 
