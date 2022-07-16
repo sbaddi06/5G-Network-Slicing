@@ -1,7 +1,7 @@
 # 5G Network Slicing
 
 Simulate and Analyze 5G Network Slicing using open-source software for different use-cases.
-## Intoduction
+## Introduction
 One of my recent projects was in the networking area, with the problem statement “Simulate and Analyse 5G Network Slicing using Open-source Software for different Use cases”. The main motivation behind choosing this project was by looking at the developing markets. In recent years, there has been a significant increase in users or subscribers, as well as a diverse range of use cases such as Vehicle-to-vehicle communications (V2V), Cloud gaming technology, Improved virtual reality, Robotic medical advancement, Evolution of IOT devices etc. To satisfy the growing demand, spectrum for base stations should be extended to accommodate more users with high data rates. Here the 5G comes into picture. The development of the 5G network is more difficult since it must cater to multiple needs at the same time while employing a common infrastructure. The feature that differentiates 5G from prior mobile network standards is Network Slicing, which means that an operator can, for example, build a network slice based on a customer’s needs or also known as use cases. These needs be an ensuring data rate, bandwidth, fast response, level of security, or quality of service, or any combination of these. Even though the list of 5G applications appears to be endless, most of them fall into one of three categories.
 1. Enhanced Mobile Broadband (eMBB). 
 2. Massive Machine Type Communications (mMTC). 
